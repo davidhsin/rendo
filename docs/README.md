@@ -13,7 +13,7 @@ This renderer is also the main part of my presentation titled "High Performance 
 ## Build Instructions
 Run the following instructions to build Rendo:
 ```sh
-mkdir build & cd build
+mkdir build && cd build
 cmake -DCMAKE_BUILD_TYPE=Release ..
 cmake --build .
 ```
